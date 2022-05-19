@@ -9,6 +9,7 @@
         exit();
     }
     else
+    
     {
      
         require_once "connect.php";
